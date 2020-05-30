@@ -1,1 +1,1 @@
-[reactjs-paypal-demo](https://muhammadwasay.github.io/reactjs-paypal-demo/index.html)
+[reactjs-paypal-demo](https://muhammadwasay.github.io/index.html)
